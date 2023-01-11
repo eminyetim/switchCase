@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\bin\Debug\net6.0\switchCase.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\bin\Debug\net6.0\switchCase.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\bin\Debug\net6.0\switchCase.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\bin\Debug\net6.0\switchCase.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\bin\Debug\net6.0\switchCase.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\refint\switchCase.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\switchCase.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\switchCase\obj\Debug\net6.0\ref\switchCase.dll
